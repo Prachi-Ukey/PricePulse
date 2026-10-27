@@ -273,9 +273,4 @@ PricePulse demonstrates how data analytics can support retail business decisions
 **Prachi Ukey**
 
 - GitHub: https://github.com/Prachi-Ukey
-- Portfolio: https://portfolio-prachi-ukey.vercel.app/
-
-## 📄 License
-
-This project is intended for portfolio, educational, and demonstration purposes. Add a `LICENSE` file to the repository if you want to distribute it under a specific open-source license.
 
