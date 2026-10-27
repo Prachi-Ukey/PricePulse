@@ -4,7 +4,44 @@ Explore retail revenue, profitability, pricing performance, discounts, product c
 
 **🚀 [Live Demo](https://pricepulse-delta-rouge.vercel.app/) · 📚 [API Documentation](https://pricepulse-api-wc6f.onrender.com/docs) · 💻 [Source Code](https://github.com/Prachi-Ukey/PricePulse)**
 
-React · Python · FastAPI · Pandas · SQLite · Recharts · Vercel · Render
+---
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,python,fastapi,sqlite,git,github,vercel&perline=5" alt="PricePulse technology icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Styling" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Visualization-Recharts-8B5CF6?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/API-Axios%20%7C%20REST-5A29E4?style=for-the-badge" alt="API Integration" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database" />
+  <img src="https://img.shields.io/badge/ORM-SQLAlchemy-D71F00?style=for-the-badge" alt="ORM" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment" />
+</p>
+
+### Technology Breakdown
+
+| Layer | Technologies | Purpose |
+|---|---|---|
+| **Frontend** | React, JavaScript, Vite | Interactive analytics dashboard |
+| **UI & Styling** | Tailwind CSS | Responsive user interface |
+| **Data Visualization** | Recharts | Revenue, category, and profitability charts |
+| **API Communication** | Axios, REST APIs | Frontend-to-backend integration |
+| **Backend** | Python, FastAPI, Uvicorn | API services and analytics processing |
+| **Data Analysis** | Pandas, NumPy | Data processing and numerical calculations |
+| **Database** | SQLite, SQLAlchemy | Data persistence and database access |
+| **Deployment** | Vercel, Render | Frontend and backend hosting |
+| **Version Control** | Git, GitHub | Source control and collaboration |
 
 ---
 
@@ -315,9 +352,8 @@ These are potential future improvements, not claims about existing functionality
 **Prachi Ukey**
 
 - **GitHub:** [Prachi-Ukey](https://github.com/Prachi-Ukey)
-- **Portfolio:** [Portfolio Website](https://portfolio-prachi-ukey.vercel.app/)
 - **Project Repository:** [PricePulse](https://github.com/Prachi-Ukey/PricePulse)
 
 ---
 
-*PricePulse — A portfolio project demonstrating full-stack development, retail analytics, data visualization, and API integration.*
+
