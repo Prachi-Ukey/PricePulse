@@ -18,21 +18,34 @@ The application provides an interactive dashboard for understanding retail sales
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,python,fastapi,sqlite,git,github,vercel&perline=5" alt="PricePulse Technology Stack" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind" alt="React, JavaScript, Vite, Tailwind CSS" />
 </p>
 
-| Category | Technologies |
-|---|---|
-| Frontend | React, JavaScript, Vite |
-| Styling | Tailwind CSS |
-| Data Visualization | Recharts |
-| API Integration | Axios, REST API |
-| Backend | Python, FastAPI |
-| Data Analysis | Pandas, NumPy |
-| Database & ORM | SQLite, SQLAlchemy |
-| Deployment | Vercel, Render |
-| Version Control | Git, GitHub |
+### ⚙️ Backend & API
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python, FastAPI" />
+</p>
+
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+</p>
+
+**Libraries:** NumPy · Recharts · Axios
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+</p>
+
+**ORM:** SQLAlchemy
+
+### 🚀 Deployment & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render,git,github" alt="Vercel, Render, Git, GitHub" />
+</p>
 
 ---
 
