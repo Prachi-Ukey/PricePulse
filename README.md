@@ -1,85 +1,67 @@
-# ⚡ PricePulse — Intelligent Pricing & Profit Analytics Platform
+# PricePulse — Intelligent Pricing & Profit Analytics Platform
 
-An interactive retail analytics platform for exploring revenue performance, profitability, pricing strategies, discount patterns, product categories, and sales-channel contribution using synthetic retail data.
+Explore retail revenue, profitability, pricing performance, discounts, product categories, and sales-channel contribution through an interactive analytics dashboard.
 
-<p align="center">
-  <a href="https://pricepulse-delta-rouge.vercel.app/"><strong>🚀 Live Demo</strong></a> |
-  <a href="https://pricepulse-api-wc6f.onrender.com/docs"><strong>📚 API Documentation</strong></a> |
-  <a href="https://github.com/Prachi-Ukey/PricePulse"><strong>💻 GitHub Repository</strong></a>
-</p>
+**🚀 [Live Demo](https://pricepulse-delta-rouge.vercel.app/) · 📚 [API Documentation](https://pricepulse-api-wc6f.onrender.com/docs) · 💻 [Source Code](https://github.com/Prachi-Ukey/PricePulse)**
+
+React · Python · FastAPI · Pandas · SQLite · Recharts · Vercel · Render
 
 ---
 
-## 🌐 Live Demo
+## ✨ Overview
 
-**Explore PricePulse:** https://pricepulse-delta-rouge.vercel.app/
+PricePulse is a retail analytics platform designed to help users explore sales performance, pricing patterns, and profitability through interactive dashboards and data-driven metrics.
 
-Explore interactive dashboards for sales performance, revenue trends, profitability, pricing metrics, product categories, and sales-channel contribution.
+The application combines a React-based frontend with a Python FastAPI backend to present key performance indicators, revenue trends, category-level comparisons, and sales-channel analysis.
 
-> **Note:** This project uses synthetic retail data for demonstration purposes. The displayed metrics do not represent actual company sales.
+PricePulse demonstrates how full-stack development and data analytics can be combined to transform structured retail transaction data into accessible business insights.
 
----
+> **Data disclaimer:** This project uses synthetic retail data for demonstration purposes. Dashboard metrics do not represent actual company sales.
 
-## 🛠️ Tech Stack
+## 🎯 Why PricePulse?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,python,fastapi,sqlite,git,github,vercel&perline=5" alt="React, JavaScript, Vite, Tailwind CSS, Python, FastAPI, SQLite, Git, GitHub and Vercel" />
-</p>
+Retail businesses need to understand more than total revenue. Discounts, product costs, category performance, and sales channels can all influence profitability.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=flat-square" alt="Frontend: React and Vite" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-009688?style=flat-square" alt="Backend: Python and FastAPI" />
-  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=flat-square" alt="Data analysis: Pandas and NumPy" />
-  <img src="https://img.shields.io/badge/Charts-Recharts-8B5CF6?style=flat-square" alt="Data visualization: Recharts" />
-  <img src="https://img.shields.io/badge/API-Axios%20%7C%20REST-5A29E4?style=flat-square" alt="API: Axios and REST" />
-  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20SQLAlchemy-003B57?style=flat-square" alt="Database: SQLite and SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-000000?style=flat-square" alt="Deployment: Vercel and Render" />
-</p>
+PricePulse brings these metrics together in one dashboard, making it easier to explore business performance and identify areas that may deserve further investigation.
 
-| Category | Technologies |
+**The goal:** Make retail sales and pricing analytics easier to explore, understand, and communicate.
+
+## 🚀 Live Demo
+
+| Resource | Link |
 |---|---|
-| Frontend | React, JavaScript, Vite |
-| Styling | Tailwind CSS |
-| Data Visualization | Recharts |
-| API Integration | Axios, REST API |
-| Backend | Python, FastAPI |
-| Data Analysis | Pandas, NumPy |
-| Database & ORM | SQLite, SQLAlchemy |
-| Deployment | Vercel, Render |
-| Version Control | Git, GitHub |
+| 🌐 Frontend Application | [Launch PricePulse](https://pricepulse-delta-rouge.vercel.app/) |
+| ⚙️ Backend API | [Open Backend](https://pricepulse-api-wc6f.onrender.com/) |
+| 📚 Interactive API Documentation | [FastAPI Swagger UI](https://pricepulse-api-wc6f.onrender.com/docs) |
+| ❤️ Health Check | [Check Backend Status](https://pricepulse-api-wc6f.onrender.com/api/health) |
+| 💻 GitHub Repository | [View Source Code](https://github.com/Prachi-Ukey/PricePulse) |
+| 👩‍💻 Portfolio | [Visit Portfolio](https://portfolio-prachi-ukey.vercel.app/) |
 
----
+## ⭐ Key Features
 
-## 🎯 Project Overview
-
-PricePulse brings retail sales analytics into a single dashboard, helping users understand how revenue, discounts, product categories, and sales channels relate to business profitability.
-
-The project combines a React frontend with a Python FastAPI backend to deliver data-driven insights through interactive visualizations and analytical metrics.
-
-## ✨ Key Features
-
-- **Executive KPI Dashboard** — Monitor total revenue, units sold, average selling price, gross profit, gross margin, and average discount.
-- **Revenue Analytics** — Explore revenue performance and historical trends.
-- **Profitability Analysis** — Analyze gross profit and margins across product categories.
-- **Category Performance** — Compare revenue and profitability across categories.
-- **Sales Channel Analysis** — Evaluate the contribution of different sales channels.
-- **Interactive Visualizations** — Explore business metrics through dynamic charts and graphs.
-- **Pricing Analysis** — Examine relationships between selling prices, discounts, revenue, and profit.
-- **REST API Integration** — Retrieve analytical data from the FastAPI backend.
-- **Synthetic Retail Dataset** — Analyze sample products and transactions for demonstration and testing.
+- **Executive KPI Dashboard** — Track total revenue, units sold, average selling price, gross profit, gross margin, and average discount.
+- **Revenue Analytics** — Explore revenue trends and changes in sales performance.
+- **Profitability Analysis** — Examine gross profit and margins across available product categories.
+- **Category Performance** — Compare category-level revenue and profitability.
+- **Sales Channel Analysis** — Understand the contribution of different sales channels.
+- **Interactive Visualizations** — Explore business data through charts and graphical summaries.
+- **Pricing and Discount Analysis** — Examine how selling prices and discounts relate to revenue and profit.
+- **REST API Integration** — Connect the frontend to backend analytics endpoints.
+- **Synthetic Retail Dataset** — Demonstrate analytics workflows using sample product and transaction data.
+- **Responsive Dashboard** — Access the analytics interface on supported screen sizes.
 
 ## 📊 Business Metrics
 
 | Metric | Description |
 |---|---|
-| Total Revenue | Total sales revenue generated |
+| Total Revenue | Total sales revenue calculated from the transaction data |
 | Units Sold | Total quantity of products sold |
 | Average Selling Price (ASP) | Total revenue divided by total units sold |
 | Gross Profit | Revenue minus cost of goods sold |
 | Gross Margin | Gross profit expressed as a percentage of revenue |
-| Average Discount | Average discount applied across sales |
+| Average Discount | Average discount calculated using the application's discount methodology |
 
-## 🧮 Analytical Formulas
+### 🧮 Analytical Formulas
 
 **Total Revenue**
 
@@ -97,51 +79,75 @@ The project combines a React frontend with a Python FastAPI backend to deliver d
 
 `Gross Margin (%) = (Gross Profit ÷ Total Revenue) × 100`
 
-These metrics help evaluate sales performance, pricing effectiveness, and profitability.
+The precise calculation of each metric depends on the transaction fields and aggregation rules implemented in the application.
 
-## 🏗️ System Architecture
+## 🧠 How It Works
+
+### 📈 Analytics Workflow
+
+1. **Data Preparation:** Load the available synthetic retail product and transaction data.
+2. **Data Processing:** Process transaction records and prepare the fields required for analysis.
+3. **Metric Calculation:** Calculate revenue, units sold, average selling price, gross profit, and margin using the application's configured logic.
+4. **API Delivery:** Expose the required analytical data through the FastAPI backend.
+5. **Visualization:** Retrieve the data in the React frontend and present it through KPI cards, charts, and dashboard components.
+6. **Business Interpretation:** Use the resulting metrics to explore category performance, sales-channel contribution, and pricing patterns.
+
+## 🏗️ Architecture
+
+| Layer | Responsibility |
+|---|---|
+| Frontend | Interactive dashboard, KPI cards, charts, and user interface |
+| Visualization | Present revenue, profitability, category, and channel metrics |
+| API Integration | Communicate with the backend using HTTP requests |
+| Backend API | Expose application endpoints using FastAPI |
+| Data Processing | Process retail data and calculate analytical metrics |
+| Database | Store product and transaction records using SQLite |
+| Deployment | Host the frontend on Vercel and the backend on Render |
+
+### System Flow
 
 ```text
-┌──────────────────────────────┐
-│       User / Browser         │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│     React + Vite Frontend    │
-│  Dashboard / Charts / KPIs   │
-└──────────────┬───────────────┘
-               │ HTTP Requests
-               ▼
-┌──────────────────────────────┐
-│       FastAPI Backend        │
-│   Analytics / Data APIs      │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│        SQLite Database       │
-│  Products / Transactions     │
-└──────────────────────────────┘
+             User / Browser
+                   |
+                   v
+          React + Vite Frontend
+       Dashboard / KPIs / Charts
+                   |
+                   | HTTP / REST API
+                   v
+             FastAPI Backend
+          Analytics / Data APIs
+                   |
+                   v
+              SQLite Database
+          Products / Transactions
 ```
 
-## 🔗 Important Links
+## 🛠️ Technology Stack
 
-- **Live Application:** https://pricepulse-delta-rouge.vercel.app/
-- **API Documentation:** https://pricepulse-api-wc6f.onrender.com/docs
-- **Backend Health Check:** https://pricepulse-api-wc6f.onrender.com/api/health
-- **GitHub Repository:** https://github.com/Prachi-Ukey/PricePulse
-- **Portfolio:** https://portfolio-prachi-ukey.vercel.app/
+| Category | Technologies |
+|---|---|
+| Frontend | React, JavaScript, Vite |
+| Styling | Tailwind CSS |
+| Data Visualization | Recharts |
+| API Integration | Axios, REST API |
+| Backend | Python, FastAPI, Uvicorn |
+| Data Analysis | Pandas, NumPy |
+| Database & ORM | SQLite, SQLAlchemy |
+| Deployment | Vercel, Render |
+| Version Control | Git, GitHub |
+| Testing | pytest, frontend build verification |
 
-## 💻 Run Locally
+## ⚙️ Local Development Setup
 
 ### Prerequisites
 
 Install the following tools:
 
-- Python 3.10 or later
-- Node.js and npm
-- Git
+- **Python:** A version supported by the project's dependencies.
+- **Node.js:** An LTS release.
+- **npm:** Included with Node.js.
+- **Git:** For cloning the repository.
 
 ### 1. Clone the Repository
 
@@ -150,40 +156,43 @@ git clone https://github.com/Prachi-Ukey/PricePulse.git
 cd PricePulse
 ```
 
-### 2. Set Up the Backend
+### 2. Configure the Backend
 
-From the project root, create a virtual environment:
+Create a virtual environment from the project root.
+
+**Windows PowerShell**
 
 ```powershell
 python -m venv .venv
-```
-
-Activate it using Windows PowerShell:
-
-```powershell
 .\.venv\Scripts\Activate.ps1
-```
-
-Install backend dependencies:
-
-```powershell
 python -m pip install -r backend/requirements.txt
 ```
 
-Start the FastAPI server:
+**Linux / macOS**
 
-```powershell
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r backend/requirements.txt
+```
+
+Start the FastAPI backend from the project root:
+
+```bash
 python -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-- Backend API: http://127.0.0.1:8000
-- Interactive API documentation: http://127.0.0.1:8000/docs
+Backend resources:
 
-### 3. Set Up the Frontend
+- **API:** http://127.0.0.1:8000
+- **Interactive API documentation:** http://127.0.0.1:8000/docs
+- **Health check:** http://127.0.0.1:8000/api/health
 
-Open a second terminal and navigate to the frontend directory:
+### 3. Configure the Frontend
 
-```powershell
+Open another terminal from the project root:
+
+```bash
 cd frontend
 npm install
 ```
@@ -194,31 +203,41 @@ Create a `.env.local` file inside the `frontend` directory:
 VITE_API_BASE_URL=http://127.0.0.1:8000/api
 ```
 
-Start the development server:
+Start the frontend development server:
 
-```powershell
+```bash
 npm run dev
 ```
 
-Open the local URL printed by Vite, usually:
+Open the local URL displayed by Vite, usually:
 
 http://localhost:5173
+
+Keep the backend and frontend terminals running while using the local application.
 
 ## 🚀 Deployment
 
 ### Frontend — Vercel
 
-- **Root Directory:** `frontend`
-- **Build Command:** `npm run build`
-- **Output Directory:** `dist`
+Configure the frontend project with the following settings:
 
-Configure the following environment variable for the production deployment:
+| Setting | Value |
+|---|---|
+| Root Directory | `frontend` |
+| Build Command | `npm run build` |
+| Output Directory | `dist` |
+
+Set the following production environment variable:
 
 ```env
 VITE_API_BASE_URL=https://pricepulse-api-wc6f.onrender.com/api
 ```
 
+Redeploy the frontend after changing production environment variables.
+
 ### Backend — Render
+
+Configure the backend service with the following commands.
 
 **Build Command**
 
@@ -232,58 +251,73 @@ pip install -r backend/requirements.txt
 uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
 ```
 
-Configure `CORS_ORIGINS` in the backend environment to include the deployed frontend URL and the local development origins you use.
+Configure `CORS_ORIGINS` in the backend environment to include the deployed frontend origin and any local development origins required for testing.
 
-> **Deployment note:** The current backend uses SQLite. On hosting platforms with an ephemeral filesystem, database changes may not persist across restarts or redeployments unless persistent storage is configured.
+### Deployment Considerations
 
-## 🧪 Testing
+- The frontend API URL must point to the deployed backend in production.
+- CORS must allow requests from the intended frontend origin.
+- The backend health endpoint can be used to check service availability.
+- A free hosting service may take time to wake up after inactivity.
+- SQLite data may not persist across backend restarts or redeployments when the hosting filesystem is ephemeral. Persistent storage or a managed database may be required for durable production data.
+
+## 🧪 Automated Testing
 
 Run backend tests from the project root:
 
-```powershell
+```bash
 python -m pytest backend/tests -v
 ```
 
-Build the frontend to check that it compiles successfully:
+Verify that the frontend builds successfully:
 
-```powershell
+```bash
 cd frontend
 npm run build
 ```
 
 If frontend tests are configured in the project, run:
 
-```powershell
+```bash
 npm test
 ```
 
+Run the commands supported by your current repository and dependencies. A successful production build verifies compilation, but does not by itself verify every dashboard calculation or API integration.
+
 ## 📈 Business Value
 
-PricePulse demonstrates how analytics can support retail business decisions by helping users:
+PricePulse demonstrates how data analytics can support retail decision-making by helping users:
 
-- Identify high-revenue product categories.
-- Compare profitability across categories and sales channels.
-- Monitor sales and pricing performance.
-- Understand the relationship between discounts and profitability.
-- Communicate complex business metrics through interactive dashboards.
+- Compare revenue and profitability across product categories.
+- Monitor average selling prices and discount patterns.
+- Explore sales-channel contribution.
+- Identify categories that may require further investigation.
+- Communicate business performance through interactive visualizations.
+- Connect backend data processing with a practical analytics interface.
 
 ## 🔮 Future Enhancements
 
-- Demand forecasting using machine learning.
-- Price optimization and scenario simulation.
-- Product-level profitability recommendations.
-- Automated anomaly detection for unusual sales patterns.
-- Power BI integration for advanced business intelligence.
-- PostgreSQL support for persistent production data.
-- CSV upload and custom dataset analysis.
+Potential improvements include:
+
+- **Demand Forecasting:** Forecast future sales using historical data and machine learning.
+- **Price Optimization:** Evaluate alternative pricing scenarios and their potential impact.
+- **Product-Level Profitability:** Identify products with stronger or weaker margins.
+- **Anomaly Detection:** Flag unusual revenue, discount, or transaction patterns.
+- **Power BI Integration:** Extend the project with business intelligence reports.
+- **CSV Import:** Support analysis of user-provided retail datasets.
+- **PostgreSQL Support:** Introduce a database better suited to persistent, multi-user production workloads.
+- **Advanced Analytics:** Add product segmentation, forecasting, and pricing recommendations.
+
+These are potential future improvements, not claims about existing functionality.
 
 ## 👩‍💻 Author
 
 **Prachi Ukey**
 
-- GitHub: https://github.com/Prachi-Ukey
-- Portfolio: https://portfolio-prachi-ukey.vercel.app/
+- **GitHub:** [Prachi-Ukey](https://github.com/Prachi-Ukey)
+- **Portfolio:** [Portfolio Website](https://portfolio-prachi-ukey.vercel.app/)
+- **Project Repository:** [PricePulse](https://github.com/Prachi-Ukey/PricePulse)
 
 ---
 
-*Built as a portfolio project to demonstrate full-stack development, data analytics, API integration, and business intelligence skills.*
+*PricePulse — A portfolio project demonstrating full-stack development, retail analytics, data visualization, and API integration.*
