@@ -16,7 +16,25 @@ An interactive retail analytics platform designed to explore revenue performance
 
 The application provides an interactive dashboard for understanding retail sales performance, tracking key business metrics, and exploring pricing and profitability insights.
 
-> **Note:** PricePulse uses synthetic retail data for demonstration purposes. The displayed metrics do not represent actual company sales.
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,python,fastapi,sqlite,git,github,vercel&perline=5" alt="PricePulse Technology Stack" />
+</p>
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, JavaScript, Vite |
+| Styling | Tailwind CSS |
+| Data Visualization | Recharts |
+| API Integration | Axios, REST API |
+| Backend | Python, FastAPI |
+| Data Analysis | Pandas, NumPy |
+| Database & ORM | SQLite, SQLAlchemy |
+| Deployment | Vercel, Render |
+| Version Control | Git, GitHub |
+
+---
 
 ## 🎯 Project Overview
 
