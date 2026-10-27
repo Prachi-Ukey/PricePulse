@@ -8,10 +8,6 @@ Explore retail revenue, profitability, pricing performance, discounts, product c
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,python,fastapi,sqlite,git,github,vercel&perline=5" alt="PricePulse technology icons" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" />
   <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Styling" />
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend" />
@@ -159,21 +155,6 @@ The precise calculation of each metric depends on the transaction fields and agg
               SQLite Database
           Products / Transactions
 ```
-
-## 🛠️ Technology Stack
-
-| Category | Technologies |
-|---|---|
-| Frontend | React, JavaScript, Vite |
-| Styling | Tailwind CSS |
-| Data Visualization | Recharts |
-| API Integration | Axios, REST API |
-| Backend | Python, FastAPI, Uvicorn |
-| Data Analysis | Pandas, NumPy |
-| Database & ORM | SQLite, SQLAlchemy |
-| Deployment | Vercel, Render |
-| Version Control | Git, GitHub |
-| Testing | pytest, frontend build verification |
 
 ## ⚙️ Local Development Setup
 
