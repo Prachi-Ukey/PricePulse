@@ -15,29 +15,6 @@ The project demonstrates practical skills in **Python, SQL, data analytics, stat
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [System Architecture](#system-architecture)
-- [Analytics and Business Formulas](#analytics-and-business-formulas)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Environment Configuration](#environment-configuration)
-- [Running the Application](#running-the-application)
-- [Testing](#testing)
-- [Sample Data](#sample-data)
-- [API Documentation](#api-documentation)
-- [Limitations and Assumptions](#limitations-and-assumptions)
-- [Future Improvements](#future-improvements)
-- [What I Learned](#what-i-learned)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## Overview
 
 PricePulse is a full-stack pricing and profit analytics application designed to turn sales transaction data into actionable business insights.
@@ -608,10 +585,3 @@ Interested in Data Analytics, Python Development, Full-Stack Development, and AI
 - LinkedIn: [Prachi Ukey](https://www.linkedin.com/in/prachi-ukey-02573b2a2/)
 
 ---
-
-## License
-
-This project is intended to be released under the MIT License.
-
-If you choose the MIT License, add a `LICENSE` file containing the standard MIT License text and your copyright details before relying on the license badge above.
-
